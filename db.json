@@ -5,7 +5,7 @@
     { "treino": "Triceps", "serie" :3, "repeticao": 15, "carga": "3 kg" }
   ],
   "fisico": [
-    { "peso": 70, "altura": 120, "treinos": "ABC" }
+    { "peso": 70, "altura": 1.78, "treinos": "ABC" }
   ],
   "profile": {
     "name": "typicode"
