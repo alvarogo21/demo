@@ -1,8 +1,8 @@
 {
   "treinos": [
-    { "treino":"Biceps", "serie":3, "repeticao":"15", "carga":"3 kg" },
-    { "treino":"Perna", "serie":3, "repeticao":"15", "carga":"3 kg" },
-    { "treino":"Triceps", "serie":3, "repeticao":"15", "carga":"3 kg" },
+    { "treino": "Biceps", "serie": 3, "repeticao": 15, "carga": "3 kg" },
+    { "treino": "Perna", "serie": 3, "repeticao": 15, "carga": "3 kg" },
+    { "treino": "Triceps", "serie" :3, "repeticao": 15, "carga": "3 kg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
