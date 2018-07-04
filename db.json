@@ -7,9 +7,9 @@
   "fisico": [
     { "peso": 70, "altura": 178, "treinos": "ABC" }
   ],
-  "avaliacao: [
-    { "data":"21/06/2016 8:00" , "instrutor": "joao"},
-    { "data":"21/08/2016 8:00" , "instrutor": "joao"}
+ "avaliacao": [
+    { "id": 1, "instrutor": "joao", "data": "12.12.12" },
+    { "id": 2, "instrutor": "joao", "data": "12.12.12" }
   ],
   "profile": {
     "name": "typicode"
