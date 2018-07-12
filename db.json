@@ -8,6 +8,9 @@
   "fisico": [
     { "peso": 70, "altura": 178, "treinos": "ABC" }
   ],
+"login": [
+    { "usuario": "123456789" }
+  ],
  "avaliacao": [
     { "id": 1, "instrutor": "joao", "data": "12.12.12" },
     { "id": 2, "instrutor": "joao", "data": "12.12.12" }
