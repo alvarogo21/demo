@@ -21,7 +21,6 @@
  "avaliacao": [
     { "id": 1, "instrutor": "joaosss", "data": "12.12.12" },
     { "id": 2, "instrutor": "joaosssss", "data": "12.12.12" },
-    { "id": 3, "instrutor": "joaossaaas", "data": "12.12.12" },
     { "id": 4, "instrutor": "joaaaao", "data": "12.12.12" }
   ],
   "profile": {
